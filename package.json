@@ -1,0 +1,28 @@
+{
+  "name": "icloud-photos-app",
+  "version": "1.0.0",
+  "description": "Manage ICloud photos",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cookie": "^0.1.2",
+    "form-data": "^0.2.0",
+    "image-type": "^2.0.1",
+    "read-chunk": "^1.0.1",
+    "stream-length": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlincoln/icloud-photos-app.git"
+  },
+  "author": "alexlincoln",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlincoln/icloud-photos-app/issues"
+  },
+  "homepage": "https://github.com/alexlincoln/icloud-photos-app"
+}
