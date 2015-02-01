@@ -100,7 +100,7 @@ filenames and buffers. See above for an example.
 
 ### .upload(files, callback)
 This function will upload various image assets from the local directory to
-the remote Photo Library. Two paramaters are passed in; `files` an array of
+the remote Photo Library. Two parameters are passed in; `files` an array of
 file paths to read from, and `callback` returning success/failure results.
 At the moment, no other formats other than `JPEG` are accepted by Apple. See
 above for an example.
